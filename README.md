@@ -2,7 +2,6 @@
 # 🏥 DWBI Assignments – Hospital Data Warehouse & Business Intelligence
 
 **Student:** Jayawan K P S M
-**Index Number:** IT23699830
 **Course:** Data Warehousing & Business Intelligence (DWBI)
 **Year:** 3 | **Semester:** 1 | **Year:** 2026
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
@@ -14,10 +13,8 @@
 ```
 DWBI-Assignments/
 ├── README.md
-├── Assignment01/
-│   └── IT23699830_DWBI_Assignment01.pdf
-└── Assignment02/
-    └── IT23699830_DWBI_Assignment02.pdf
+├── Data_Warehousing.pdf
+└── Business_Intelligence
 ```
 
 ---
@@ -149,5 +146,5 @@ This project involves designing and implementing a **Data Warehouse and Business
 ## 📬 Contact
 
 **Jayawan K P S M**
-📧 IT23699830@students.sliit.lk
+📧 maheemasithmi@gmail.com
 🏫 Sri Lanka Institute of Information Technology
